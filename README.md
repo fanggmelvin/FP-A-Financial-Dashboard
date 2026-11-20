@@ -15,7 +15,7 @@ An executive-level summary of 2014 financial performance, including revenue, cos
 - Gross Profit: $13.02M
 - Gross Margin: 14.1%
 
-![Executive Financial Overview](screenshots/01_Executive_Overview.png)
+![Executive Financial Overview]([screenshots/01_Executive_Overview.png](https://github.com/fanggmelvin/FP-A-Financial-Dashboard/blob/main/screenshots/Screenshot%202026-11-20%20062407.png))
 
 ### 2. Budget vs. Actual Analysis
 
